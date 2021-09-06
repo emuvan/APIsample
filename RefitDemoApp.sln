@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApi", "SimpleApi\SimpleApi.csproj", "{6922ABFB-76F2-4E52-9683-E785884F1D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleUI", "SimpleUI\SimpleUI.csproj", "{D77CDCF1-7D9E-4C37-A72D-588BB7B9B402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6922ABFB-76F2-4E52-9683-E785884F1D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6922ABFB-76F2-4E52-9683-E785884F1D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6922ABFB-76F2-4E52-9683-E785884F1D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6922ABFB-76F2-4E52-9683-E785884F1D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77CDCF1-7D9E-4C37-A72D-588BB7B9B402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77CDCF1-7D9E-4C37-A72D-588BB7B9B402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77CDCF1-7D9E-4C37-A72D-588BB7B9B402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77CDCF1-7D9E-4C37-A72D-588BB7B9B402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200436D4-2EB7-43D9-8C68-FA37B6FAA192}
+	EndGlobalSection
+EndGlobal
